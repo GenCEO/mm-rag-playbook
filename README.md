@@ -1,5 +1,8 @@
 # mm-rag-playbook
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white) ![Stage](https://img.shields.io/badge/Stage-Research%20Prototype-0A7E07) ![License](https://img.shields.io/badge/License-MIT-1f6feb)
+
+
 A compact research playground for **multimodal RAG** on PDF-like documents.
 
 ## Why
